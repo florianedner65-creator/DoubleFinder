@@ -1,9 +1,4 @@
-/*
-  Trage hier deine Supabase-Daten ein.
-  URL: Project Settings -> API -> Project URL
-  KEY: Project Settings -> API -> anon/public key
-*/
 window.DF_CONFIG = {
-  SUPABASE_URL: "DEINE_SUPABASE_URL",
-  SUPABASE_ANON_KEY: "DEIN_SUPABASE_ANON_KEY"
+  SUPABASE_URL: "https://alsemnsjooxylcdtngah.supabase.co",
+  SUPABASE_ANON_KEY: "sb_publishable_-Kip71RkXk1E1CVJ_44PAA_B7ChBnyH"
 };
